@@ -14,13 +14,13 @@ This reflection piece aims to segment the Indian market and identify potential o
 
 To start, there seem to be 3 broad segments of the population in terms of GDP per capita and disposable income.
 
-*The Urban Affluent (Top 50 Million)*
+**The Urban Affluent (Top 50 Million)**
 Often compared to "Singapore" in conversations, this segment represents India's metropolitan elite. Their needs have evolved beyond essentials to quality-of-life improvements. The scale of this market can be interpreted through paid penetration of existing services. Hotstar's 38 million and Amazon Prime's 20 million are often cited as ballparks for sizing.
 
 Success here often mirrors Western consumer markets, with companies like Swiggy and Blinkit leveraging India's labor cost advantages to deliver premium services. There is ample opportunity for building products to serve this group: but from my conversations, there aren't large service oriented needs to be fulfilled.
 There are some trickle-down-economic theories touted by companies like last-mile delivery services, but there is doubt about the sustainability of the upwards mobility these create: similar to gig-economy fragility in mature markets.
 
-*The Middle Class (300-400 Million)*
+**The Middle Class (300-400 Million)**  
 Colloquially referred to as "Mexico", this segment has an average expense of ~$10 per person. It is a large and diverse group and the hardest to unify. This includes gig workers, service workers in [Tier 1](https://en.wikipedia.org/wiki/Classification_of_Indian_cities) cities and small business owners in tier 1 and 2 cities to name a few.
 The consensus was that the unifying characteristic of this group was financial fragility: and as such the best way to help them is systems for long-term financial stability and upwards social mobility. Two avenues came to the top
 * Global connection
@@ -32,13 +32,13 @@ The consensus was that the unifying characteristic of this group was financial f
 	* While UPI has democratized payments, significant gaps remain in access to affordable credit, insurance penetration, and tools for building long-term financial security.
 	* Better credit access and structured training and certification would allow for creating more robust marketplaces for skilled trades without relying on export based outcomes.
 
-*The Fooded Poor (800 Million)*
+**The Fooded Poor (800 Million)**  
 This group is defined by the reliance on government ration program to meet household food needs. The scale of this is verifiable through multiple sources. While itself not a characteristic of specific problems to solve, this reliance is a proxy for the lack of security for essentials and a parallel lack of disposable income. Hence, private enterprises will find limited opportunities for impact here.
 * Service opportunities in this segment fall to public sector and NGO efforts, with real success reliant on large-scale government programs for improving outcomes.
 * Agriculture, especially lower yield and bordering on subsistence, dominates employment and presents opportunity.
 - Non-profits are a great way to have point impact and showcase novel solutions. They need alignment with government partners to reach scale. ([Agency fund](http://www.agency.fund))
 
-### Sources
+#### Sources
 
 1. Size of India's Public Food Distribution Program
 - The National Food Security Act (NFSA) covers approximately 81 crore (810 million) beneficiaries across India, providing subsidized food grains through the Targeted Public Distribution System. 
